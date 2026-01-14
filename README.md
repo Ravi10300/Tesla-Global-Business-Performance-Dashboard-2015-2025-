@@ -70,7 +70,7 @@ The goal of this project is to answer key business questions such as:
   - **Model Performance**
   - **Details Page**
   - 
-![Zomato Dashboard](https://github.com/Ravi10300/Zomato-Analytics-Dashboard/blob/main/Dashboard.png)
+![Tesla Dashboard](https://github.com/Ravi10300/Tesla-Global-Business-Performance-Dashboard-2015-2025-/blob/main/Home%20Page.png)
 
 ## 📈 Page 2: Overall Business Overview
 
@@ -95,7 +95,7 @@ The goal of this project is to answer key business questions such as:
 - **Region**
 - **Model** (buttons)
 - 
-![Zomato Dashboard](https://github.com/Ravi10300/Zomato-Analytics-Dashboard/blob/main/Dashboard.png)
+![Tesla Dashboard](https://github.com/Ravi10300/Tesla-Global-Business-Performance-Dashboard-2015-2025-/blob/main/Overview.png)
 
 ## 🚘 Page 3: Model Performance Dashboard
 
@@ -120,7 +120,7 @@ The goal of this project is to answer key business questions such as:
 - **Model** selector  
 - **Region** selector
 - 
-![Zomato Dashboard](https://github.com/Ravi10300/Zomato-Analytics-Dashboard/blob/main/Dashboard.png)
+![Tesla Dashboard](https://github.com/Ravi10300/Tesla-Global-Business-Performance-Dashboard-2015-2025-/blob/main/Model%20Wise.png)
 
 ## 📋 Page 4: Detailed Data View
 
@@ -132,7 +132,7 @@ The goal of this project is to answer key business questions such as:
   - **Region**
 - Used for deep analysis and data validation
 - 
-![Zomato Dashboard](https://github.com/Ravi10300/Zomato-Analytics-Dashboard/blob/main/Dashboard.png)
+![Tesla Dashboard](https://github.com/Ravi10300/Tesla-Global-Business-Performance-Dashboard-2015-2025-/blob/main/Details.png)
 ## 🌍 Key Insights
 
 - Tesla produced **28M vehicles** and delivered **26M vehicles** globally  
